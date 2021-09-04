@@ -1,0 +1,1 @@
+# Classificador_automatico_de_sentimentos
